@@ -4,7 +4,7 @@ def line():
    X1 = float(input("Ingrese la coordenada X1: "))
    X2 = float(input("Ingrese la coordenada X2: "))
 
-   print(f"El coeficiente A de su ecuación de la recta es: {A}")
+   print(f"\nEl coeficiente A de su ecuación de la recta es: {A}")
    print(f"El coeficiente B de su ecuación de la recta es: {B}")
    print(f"El valor de X1 es: {X1}")
    print(f"El valor de X2 es: {X2}")
