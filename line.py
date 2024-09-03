@@ -12,9 +12,9 @@ def line():
    Y1 = A * X1 + B
    Y2 = A * X2 + B
 
-   print(f"\nPara la siguiente ecuación:")
+   print(f"\nPara la siguiente ecuación: ")
    print(f"Y = {A}X + {B}")
-   print(f"\nDados los siguientes puntos:")
+   print(f"\nDados los siguientes puntos: ")
    print(f"P1 ({X1}, {Y1})")
    print(f"P2 ({X2}, {Y2})")
 
